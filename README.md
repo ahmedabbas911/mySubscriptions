@@ -50,33 +50,30 @@ manage subscription information through a clean and structured interface.
 
 ### 📱 Subscriptions
 
-<table>
-  <tr>
-    <th>Home</th>
-    <th>Add Subscription</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img
-        src="./screenshots/home_page.png"
-        width="300"
-        alt="Home Page"
-      />
-    </td>
-    <td align="center" valign="top">
-      <img
-        src="./screenshots/add_task_1.png"
-        width="180"
-        alt="Add Subscription - Part 1"
-      />
-      <img
-        src="./screenshots/add_task_2.png"
-        width="180"
-        alt="Add Subscription - Part 2"
-      />
-    </td>
-  </tr>
-</table>
+#### 🏠 Home
+
+<p align="center">
+  <img
+    src="./screenshots/home_page.png"
+    width="350"
+    alt="Home Page"
+  />
+</p>
+
+#### ➕ Add Subscription
+
+<p align="center">
+  <img
+    src="./screenshots/add_task_1.png"
+    width="300"
+    alt="Add Subscription - Part 1"
+  />
+  <img
+    src="./screenshots/add_task_2.png"
+    width="300"
+    alt="Add Subscription - Part 2"
+  />
+</p>
 
 ### 📄 Subscription Details
 
