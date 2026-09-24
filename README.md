@@ -25,9 +25,28 @@ manage subscription information through a clean and structured interface.
 
 ### 🔐 Authentication
 
-| Login                      | Register                      |
-|----------------------------|-------------------------------|
-| screenshots/login_page.png | screenshots/register_page.png |
+<table>
+  <tr>
+    <th>Login</th>
+    <th>Register</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="./screenshots/login_page.png"
+        width="300"
+        alt="Login Page"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="./screenshots/register_page.png"
+        width="300"
+        alt="Register Page"
+      />
+    </td>
+  </tr>
+</table>
 
 ### 📱 Subscriptions
 
@@ -36,7 +55,6 @@ manage subscription information through a clean and structured interface.
     <th>Home</th>
     <th>Add Subscription</th>
   </tr>
-
   <tr>
     <td align="center" valign="top">
       <img
@@ -45,36 +63,45 @@ manage subscription information through a clean and structured interface.
         alt="Home Page"
       />
     </td>
-
     <td align="center" valign="top">
-      <table>
-        <tr>
-          <td>
-            <img
-              src="./screenshots/add_task_1.png"
-              width="200"
-              alt="Add Subscription - Part 1"
-            />
-          </td>
-          <td>
-            <img
-              src="./screenshots/add_task_2.png"
-              width="200"
-              alt="Add Subscription - Part 2"
-            />
-          </td>
-        </tr>
-      </table>
+      <img
+        src="./screenshots/add_task_1.png"
+        width="180"
+        alt="Add Subscription - Part 1"
+      />
+      <img
+        src="./screenshots/add_task_2.png"
+        width="180"
+        alt="Add Subscription - Part 2"
+      />
     </td>
-
   </tr>
 </table>
 
 ### 📄 Subscription Details
 
-| Details                      | Edit Subscription            |
-|------------------------------|------------------------------|
-| screenshots/Details_page.png | screenshots/Editing_page.png |
+<table>
+  <tr>
+    <th>Details</th>
+    <th>Edit Subscription</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="./screenshots/Details_page.png"
+        width="300"
+        alt="Subscription Details Page"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="./screenshots/Editing_page.png"
+        width="300"
+        alt="Edit Subscription Page"
+      />
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Technologies Used
 
